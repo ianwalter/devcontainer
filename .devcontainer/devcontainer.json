@@ -1,4 +1,4 @@
 {
   "name": "devcontainer",
-  "image": "ianwalter/devcontainer",
+  "image": "ianwalter/devcontainer"
 }

@@ -1,4 +1,4 @@
-FROM ianwalter/pnpm:v1.1.0
+FROM node:18-buster-slim
 
 # https://github.com/microsoft/vscode-dev-containers/blob/d901694db66bade0575db92284bf4f1aa5bf6039/containers/docker-from-docker/README.md
 
